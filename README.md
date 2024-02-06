@@ -1,6 +1,6 @@
 # Marz-AGEl redshifting program
 
-This is a custom build of Marz for the AGEL survey (Tran et al. 2022). 
+This is a custom build of Marz by [kvgc](https://github.com/kvgc) for the AGEL survey (Tran et al. 2022). 
 
 ### Running the server
 
